@@ -1,0 +1,14 @@
+doctype html
+html
+    head
+        title= title
+        link(rel='stylesheet', href='/stylesheets/style.css')
+        link(rel='stylesheet', href='//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css')
+    body
+        header
+            h1(style={color: 'orange'}) Drone Based Potholes Detection
+        
+        #map_canvas
+        script(src='http://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js')
+        script(src='https://maps.googleapis.com/maps/api/js?&sensor=false')
+        block content

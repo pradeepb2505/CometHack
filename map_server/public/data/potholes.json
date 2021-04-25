@@ -1,0 +1,29 @@
+[
+    {
+        "location":{
+			"type": "Point",
+			"coordinates": [32.987299, -96.773472]
+		}, 
+        "icon":"http://maps.google.com/mapfiles/ms/icons/red-dot.png",
+        "details": "Pothole size: 44 cm",
+        "image": "/images/image1.png"
+    },
+    {
+        "location":{
+			"type": "Point",
+			"coordinates": [32.987264, -96.773477]
+		}, 
+        "icon":"http://maps.google.com/mapfiles/ms/icons/orange.png",
+        "details": "Pothole size: 20 cm",
+        "image": "/images/image2.png"
+    },
+    {
+        "location":{
+			"type": "Point",
+			"coordinates": [32.987330, -96.773487]
+		}, 
+        "icon":"http://maps.google.com/mapfiles/ms/icons/red-dot.png",
+        "details": "Pothole size: 46 cm",
+        "image": "/images/image3.png"
+    }
+]
